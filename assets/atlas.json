@@ -1,0 +1,963 @@
+{
+  "sheets": {
+    "advanced_actions": {
+      "file": "cards/advanced_actions.jpg",
+      "width": 1680,
+      "height": 4109,
+      "cols": 4,
+      "rows": 7,
+      "cardWidth": 420,
+      "cardHeight": 587
+    },
+    "spells": {
+      "file": "cards/spells.jpg",
+      "width": 1680,
+      "height": 2935,
+      "cols": 4,
+      "rows": 5,
+      "cardWidth": 420,
+      "cardHeight": 587
+    },
+    "artifacts": {
+      "file": "cards/artifacts.jpg",
+      "width": 1680,
+      "height": 2348,
+      "cols": 4,
+      "rows": 4,
+      "cardWidth": 420,
+      "cardHeight": 587
+    },
+    "wound": {
+      "file": "cards/wound.jpg",
+      "width": 420,
+      "height": 587,
+      "cols": 1,
+      "rows": 1,
+      "cardWidth": 420,
+      "cardHeight": 587
+    },
+    "skills": {
+      "file": "cards/skills.jpg",
+      "width": 3360,
+      "height": 2935,
+      "cols": 8,
+      "rows": 5,
+      "cardWidth": 420,
+      "cardHeight": 587
+    },
+    "units_elite": {
+      "file": "cards/units_elite.jpg",
+      "width": 1680,
+      "height": 1761,
+      "cols": 4,
+      "rows": 3,
+      "cardWidth": 420,
+      "cardHeight": 587
+    },
+    "units_regular": {
+      "file": "cards/units_regular.jpg",
+      "width": 1680,
+      "height": 1761,
+      "cols": 4,
+      "rows": 3,
+      "cardWidth": 420,
+      "cardHeight": 587
+    },
+    "basic_actions": {
+      "file": "cards/basic_actions.jpg",
+      "width": 1680,
+      "height": 1761,
+      "cols": 4,
+      "rows": 3,
+      "cardWidth": 420,
+      "cardHeight": 587
+    },
+    "tactics": {
+      "file": "cards/tactics.jpg",
+      "width": 1680,
+      "height": 1761,
+      "cols": 4,
+      "rows": 3,
+      "cardWidth": 420,
+      "cardHeight": 587
+    },
+    "hero_actions": {
+      "file": "cards/hero_actions.jpg",
+      "width": 1680,
+      "height": 2348,
+      "cols": 4,
+      "rows": 4,
+      "cardWidth": 420,
+      "cardHeight": 587
+    }
+  },
+  "cards": {
+    "advanced_actions": {
+      "agility": {
+        "col": 0,
+        "row": 0,
+        "color": "neutral"
+      },
+      "ambush": {
+        "col": 1,
+        "row": 0,
+        "color": "neutral"
+      },
+      "blood_rage": {
+        "col": 2,
+        "row": 0,
+        "color": "neutral"
+      },
+      "blood_ritual": {
+        "col": 3,
+        "row": 0,
+        "color": "neutral"
+      },
+      "crushing_bolt": {
+        "col": 0,
+        "row": 1,
+        "color": "neutral"
+      },
+      "crystal_mastery": {
+        "col": 1,
+        "row": 1,
+        "color": "neutral"
+      },
+      "decompose": {
+        "col": 2,
+        "row": 1,
+        "color": "neutral"
+      },
+      "diplomacy": {
+        "col": 3,
+        "row": 1,
+        "color": "neutral"
+      },
+      "fire_bolt": {
+        "col": 0,
+        "row": 2,
+        "color": "neutral"
+      },
+      "frost_bridge": {
+        "col": 1,
+        "row": 2,
+        "color": "neutral"
+      },
+      "heroic_tale": {
+        "col": 2,
+        "row": 2,
+        "color": "neutral"
+      },
+      "ice_bolt": {
+        "col": 3,
+        "row": 2,
+        "color": "neutral"
+      },
+      "ice_shield": {
+        "col": 0,
+        "row": 3,
+        "color": "neutral"
+      },
+      "intimidate": {
+        "col": 1,
+        "row": 3,
+        "color": "neutral"
+      },
+      "into_the_heat": {
+        "col": 2,
+        "row": 3,
+        "color": "neutral"
+      },
+      "in_need": {
+        "col": 3,
+        "row": 3,
+        "color": "neutral"
+      },
+      "learning": {
+        "col": 0,
+        "row": 4,
+        "color": "neutral"
+      },
+      "magic_talent": {
+        "col": 1,
+        "row": 4,
+        "color": "neutral"
+      },
+      "mana_storm": {
+        "col": 2,
+        "row": 4,
+        "color": "neutral"
+      },
+      "maximal_effect": {
+        "col": 3,
+        "row": 4,
+        "color": "neutral"
+      },
+      "path_finding": {
+        "col": 0,
+        "row": 5,
+        "color": "neutral"
+      },
+      "pure_magic": {
+        "col": 1,
+        "row": 5,
+        "color": "neutral"
+      },
+      "refreshing_walk": {
+        "col": 2,
+        "row": 5,
+        "color": "neutral"
+      },
+      "regeneration": {
+        "col": 3,
+        "row": 5,
+        "color": "neutral"
+      },
+      "song_of_wind": {
+        "col": 0,
+        "row": 6,
+        "color": "neutral"
+      },
+      "steady_tempo": {
+        "col": 1,
+        "row": 6,
+        "color": "neutral"
+      },
+      "swift_bolt": {
+        "col": 2,
+        "row": 6,
+        "color": "neutral"
+      },
+      "training": {
+        "col": 3,
+        "row": 6,
+        "color": "neutral"
+      }
+    },
+    "spells": {
+      "burning_shield": {
+        "col": 0,
+        "row": 0,
+        "color": "neutral"
+      },
+      "call_to_arms": {
+        "col": 1,
+        "row": 0,
+        "color": "neutral"
+      },
+      "chill": {
+        "col": 2,
+        "row": 0,
+        "color": "neutral"
+      },
+      "demolish": {
+        "col": 3,
+        "row": 0,
+        "color": "neutral"
+      },
+      "energy_flow": {
+        "col": 0,
+        "row": 1,
+        "color": "neutral"
+      },
+      "expose": {
+        "col": 1,
+        "row": 1,
+        "color": "neutral"
+      },
+      "fireball": {
+        "col": 2,
+        "row": 1,
+        "color": "neutral"
+      },
+      "flame_wall": {
+        "col": 3,
+        "row": 1,
+        "color": "neutral"
+      },
+      "mana_bolt": {
+        "col": 0,
+        "row": 2,
+        "color": "neutral"
+      },
+      "mana_claim": {
+        "col": 1,
+        "row": 2,
+        "color": "neutral"
+      },
+      "mana_meltdown": {
+        "col": 2,
+        "row": 2,
+        "color": "neutral"
+      },
+      "meditation": {
+        "col": 3,
+        "row": 2,
+        "color": "neutral"
+      },
+      "mind_read": {
+        "col": 0,
+        "row": 3,
+        "color": "neutral"
+      },
+      "restoration": {
+        "col": 1,
+        "row": 3,
+        "color": "neutral"
+      },
+      "snowstorm": {
+        "col": 2,
+        "row": 3,
+        "color": "neutral"
+      },
+      "space_bending": {
+        "col": 3,
+        "row": 3,
+        "color": "neutral"
+      },
+      "tremor": {
+        "col": 0,
+        "row": 4,
+        "color": "neutral"
+      },
+      "underground_travel": {
+        "col": 1,
+        "row": 4,
+        "color": "neutral"
+      },
+      "whirlwind": {
+        "col": 2,
+        "row": 4,
+        "color": "neutral"
+      },
+      "wings_of_wind": {
+        "col": 3,
+        "row": 4,
+        "color": "neutral"
+      }
+    },
+    "artifacts": {
+      "amulet_of_darkness": {
+        "col": 0,
+        "row": 0,
+        "color": "neutral"
+      },
+      "amulet_of_sun": {
+        "col": 1,
+        "row": 0,
+        "color": "neutral"
+      },
+      "banner_of_courage": {
+        "col": 2,
+        "row": 0,
+        "color": "neutral"
+      },
+      "banner_of_fear": {
+        "col": 3,
+        "row": 0,
+        "color": "neutral"
+      },
+      "banner_of_glory": {
+        "col": 0,
+        "row": 1,
+        "color": "neutral"
+      },
+      "banner_of_protection": {
+        "col": 1,
+        "row": 1,
+        "color": "neutral"
+      },
+      "book_of_wisdom": {
+        "col": 2,
+        "row": 1,
+        "color": "neutral"
+      },
+      "diamond_ring": {
+        "col": 3,
+        "row": 1,
+        "color": "neutral"
+      },
+      "emerald_ring": {
+        "col": 0,
+        "row": 2,
+        "color": "neutral"
+      },
+      "endless_bag_of_gold": {
+        "col": 1,
+        "row": 2,
+        "color": "neutral"
+      },
+      "endless_gem_pouch": {
+        "col": 2,
+        "row": 2,
+        "color": "neutral"
+      },
+      "golden_grail": {
+        "col": 3,
+        "row": 2,
+        "color": "neutral"
+      },
+      "horn_of_wrath": {
+        "col": 0,
+        "row": 3,
+        "color": "neutral"
+      },
+      "ruby_ring": {
+        "col": 1,
+        "row": 3,
+        "color": "neutral"
+      },
+      "sapphire_ring": {
+        "col": 2,
+        "row": 3,
+        "color": "neutral"
+      },
+      "sword_of_justice": {
+        "col": 3,
+        "row": 3,
+        "color": "neutral"
+      }
+    },
+    "wound": {
+      "wound": {
+        "col": 0,
+        "row": 0,
+        "color": "neutral"
+      }
+    },
+    "skills": {
+      "arythea_dark_fire_magic": {
+        "col": 0,
+        "row": 0,
+        "color": "neutral"
+      },
+      "arythea_dark_paths": {
+        "col": 1,
+        "row": 0,
+        "color": "neutral"
+      },
+      "arythea_power_of_pain": {
+        "col": 2,
+        "row": 0,
+        "color": "neutral"
+      },
+      "arythea_ritual_of_pain": {
+        "col": 3,
+        "row": 0,
+        "color": "neutral"
+      },
+      "arythea_invocation": {
+        "col": 4,
+        "row": 0,
+        "color": "neutral"
+      },
+      "arythea_burning_power": {
+        "col": 5,
+        "row": 0,
+        "color": "neutral"
+      },
+      "arythea_dark_negotiation": {
+        "col": 6,
+        "row": 0,
+        "color": "neutral"
+      },
+      "arythea_motivation": {
+        "col": 7,
+        "row": 0,
+        "color": "neutral"
+      },
+      "arythea_hot_swordsmanship": {
+        "col": 0,
+        "row": 1,
+        "color": "neutral"
+      },
+      "arythea_polarization": {
+        "col": 1,
+        "row": 1,
+        "color": "neutral"
+      },
+      "goldyx_green_crystal_craft": {
+        "col": 2,
+        "row": 1,
+        "color": "neutral"
+      },
+      "goldyx_motivation": {
+        "col": 3,
+        "row": 1,
+        "color": "neutral"
+      },
+      "goldyx_red_crystal_craft": {
+        "col": 4,
+        "row": 1,
+        "color": "neutral"
+      },
+      "goldyx_white_crystal_craft": {
+        "col": 5,
+        "row": 1,
+        "color": "neutral"
+      },
+      "goldyx_potion_making": {
+        "col": 6,
+        "row": 1,
+        "color": "neutral"
+      },
+      "goldyx_universal_power": {
+        "col": 7,
+        "row": 1,
+        "color": "neutral"
+      },
+      "goldyx_glittering_fortune": {
+        "col": 0,
+        "row": 2,
+        "color": "neutral"
+      },
+      "goldyx_flight": {
+        "col": 1,
+        "row": 2,
+        "color": "neutral"
+      },
+      "goldyx_source_opening": {
+        "col": 2,
+        "row": 2,
+        "color": "neutral"
+      },
+      "goldyx_freezing_power": {
+        "col": 3,
+        "row": 2,
+        "color": "neutral"
+      },
+      "norowas_whispers_in_the_treetops": {
+        "col": 4,
+        "row": 2,
+        "color": "neutral"
+      },
+      "norowas_forward_march": {
+        "col": 5,
+        "row": 2,
+        "color": "neutral"
+      },
+      "norowas_leaves_in_the_wind": {
+        "col": 6,
+        "row": 2,
+        "color": "neutral"
+      },
+      "norowas_prayer_of_weather": {
+        "col": 7,
+        "row": 2,
+        "color": "neutral"
+      },
+      "norowas_motivation": {
+        "col": 0,
+        "row": 3,
+        "color": "neutral"
+      },
+      "norowas_inspiration": {
+        "col": 1,
+        "row": 3,
+        "color": "neutral"
+      },
+      "norowas_bright_negotiation": {
+        "col": 2,
+        "row": 3,
+        "color": "neutral"
+      },
+      "norowas_leadership": {
+        "col": 3,
+        "row": 3,
+        "color": "neutral"
+      },
+      "norowas_day_sharpshooting": {
+        "col": 4,
+        "row": 3,
+        "color": "neutral"
+      },
+      "norowas_bonds_of_loyalty": {
+        "col": 5,
+        "row": 3,
+        "color": "neutral"
+      },
+      "tovak_resistance_break": {
+        "col": 6,
+        "row": 3,
+        "color": "neutral"
+      },
+      "tovak_cold_swordsmanship": {
+        "col": 7,
+        "row": 3,
+        "color": "neutral"
+      },
+      "tovak_night_sharpshooting": {
+        "col": 0,
+        "row": 4,
+        "color": "neutral"
+      },
+      "tovak_who_needs_magic": {
+        "col": 1,
+        "row": 4,
+        "color": "neutral"
+      },
+      "tovak_mana_overload": {
+        "col": 2,
+        "row": 4,
+        "color": "neutral"
+      },
+      "tovak_double_time": {
+        "col": 3,
+        "row": 4,
+        "color": "neutral"
+      },
+      "tovak_i_feel_no_pain": {
+        "col": 4,
+        "row": 4,
+        "color": "neutral"
+      },
+      "tovak_i_dont_give_a_damn": {
+        "col": 5,
+        "row": 4,
+        "color": "neutral"
+      },
+      "tovak_motivation": {
+        "col": 6,
+        "row": 4,
+        "color": "neutral"
+      },
+      "tovak_shield_mastery": {
+        "col": 7,
+        "row": 4,
+        "color": "neutral"
+      }
+    },
+    "basic_actions": {
+      "march": {
+        "col": 0,
+        "row": 0,
+        "color": "green"
+      },
+      "stamina": {
+        "col": 1,
+        "row": 0,
+        "color": "blue"
+      },
+      "swiftness": {
+        "col": 2,
+        "row": 0,
+        "color": "white"
+      },
+      "rage": {
+        "col": 3,
+        "row": 0,
+        "color": "red"
+      },
+      "crystallize": {
+        "col": 0,
+        "row": 1,
+        "color": "blue"
+      },
+      "mana_draw": {
+        "col": 1,
+        "row": 1,
+        "color": "white"
+      },
+      "determination": {
+        "col": 2,
+        "row": 1,
+        "color": "blue"
+      },
+      "tranquility": {
+        "col": 3,
+        "row": 1,
+        "color": "green"
+      },
+      "promise": {
+        "col": 0,
+        "row": 2,
+        "color": "white"
+      },
+      "threaten": {
+        "col": 1,
+        "row": 2,
+        "color": "red"
+      },
+      "concentration": {
+        "col": 2,
+        "row": 2,
+        "color": "green"
+      },
+      "improvisation": {
+        "col": 3,
+        "row": 2,
+        "color": "red"
+      }
+    },
+    "tactics": {
+      "early_bird": {
+        "col": 0,
+        "row": 0,
+        "color": "neutral"
+      },
+      "rethink": {
+        "col": 1,
+        "row": 0,
+        "color": "neutral"
+      },
+      "mana_steal": {
+        "col": 2,
+        "row": 0,
+        "color": "neutral"
+      },
+      "planning": {
+        "col": 3,
+        "row": 0,
+        "color": "neutral"
+      },
+      "great_start": {
+        "col": 0,
+        "row": 1,
+        "color": "neutral"
+      },
+      "the_right_moment": {
+        "col": 1,
+        "row": 1,
+        "color": "neutral"
+      },
+      "from_the_dusk": {
+        "col": 2,
+        "row": 1,
+        "color": "neutral"
+      },
+      "long_night": {
+        "col": 3,
+        "row": 1,
+        "color": "neutral"
+      },
+      "mana_search": {
+        "col": 0,
+        "row": 2,
+        "color": "neutral"
+      },
+      "midnight_meditation": {
+        "col": 1,
+        "row": 2,
+        "color": "neutral"
+      },
+      "preparation": {
+        "col": 2,
+        "row": 2,
+        "color": "neutral"
+      },
+      "sparing_power": {
+        "col": 3,
+        "row": 2,
+        "color": "neutral"
+      }
+    },
+    "hero_actions": {
+      "arythea_battle_versatility": {
+        "col": 0,
+        "row": 0,
+        "color": "red"
+      },
+      "arythea_mana_pull": {
+        "col": 1,
+        "row": 0,
+        "color": "white"
+      },
+      "tovak_cold_toughness": {
+        "col": 2,
+        "row": 0,
+        "color": "blue"
+      },
+      "tovak_instinct": {
+        "col": 3,
+        "row": 0,
+        "color": "red"
+      },
+      "goldyx_will_focus": {
+        "col": 0,
+        "row": 1,
+        "color": "green"
+      },
+      "goldyx_crystal_joy": {
+        "col": 1,
+        "row": 1,
+        "color": "blue"
+      },
+      "norowas_noble_manners": {
+        "col": 2,
+        "row": 1,
+        "color": "white"
+      },
+      "norowas_rejuvenate": {
+        "col": 3,
+        "row": 1,
+        "color": "green"
+      },
+      "wolfhawk_swift_reflexes": {
+        "col": 0,
+        "row": 2,
+        "color": "white"
+      },
+      "wolfhawk_tirelessness": {
+        "col": 1,
+        "row": 2,
+        "color": "blue"
+      },
+      "axe_throw": {
+        "col": 2,
+        "row": 2,
+        "color": "green"
+      },
+      "krang_savage_harvesting": {
+        "col": 3,
+        "row": 2,
+        "color": "green"
+      },
+      "krang_ruthless_coercion": {
+        "col": 0,
+        "row": 3,
+        "color": "red"
+      },
+      "krang_battle_rage": {
+        "col": 1,
+        "row": 3,
+        "color": "red"
+      },
+      "braevalar_one_with_the_land": {
+        "col": 2,
+        "row": 3,
+        "color": "green"
+      },
+      "braevalar_druidic_paths": {
+        "col": 3,
+        "row": 3,
+        "color": "blue"
+      }
+    }
+  },
+  "units": {
+    "elite": {
+      "fire_mages": {
+        "sheet": "units_elite",
+        "col": 0,
+        "row": 0
+      },
+      "ice_mages": {
+        "sheet": "units_elite",
+        "col": 1,
+        "row": 0
+      },
+      "fire_golems": {
+        "sheet": "units_elite",
+        "col": 2,
+        "row": 0
+      },
+      "ice_golems": {
+        "sheet": "units_elite",
+        "col": 3,
+        "row": 0
+      },
+      "catapults": {
+        "sheet": "units_elite",
+        "col": 0,
+        "row": 1
+      },
+      "amotep_gunners": {
+        "sheet": "units_elite",
+        "col": 1,
+        "row": 1
+      },
+      "amotep_freezers": {
+        "sheet": "units_elite",
+        "col": 2,
+        "row": 1
+      },
+      "altem_mages": {
+        "sheet": "units_elite",
+        "col": 3,
+        "row": 1
+      },
+      "altem_guardians": {
+        "sheet": "units_elite",
+        "col": 0,
+        "row": 2
+      }
+    },
+    "regular": {
+      "peasants": {
+        "sheet": "units_regular",
+        "col": 0,
+        "row": 0
+      },
+      "foresters": {
+        "sheet": "units_regular",
+        "col": 1,
+        "row": 0
+      },
+      "herbalist": {
+        "sheet": "units_regular",
+        "col": 2,
+        "row": 0
+      },
+      "illusionists": {
+        "sheet": "units_regular",
+        "col": 3,
+        "row": 0
+      },
+      "guardian_golems": {
+        "sheet": "units_regular",
+        "col": 0,
+        "row": 1
+      },
+      "utem_crossbowmen": {
+        "sheet": "units_regular",
+        "col": 1,
+        "row": 1
+      },
+      "utem_guardsmen": {
+        "sheet": "units_regular",
+        "col": 2,
+        "row": 1
+      },
+      "utem_swordsmen": {
+        "sheet": "units_regular",
+        "col": 3,
+        "row": 1
+      },
+      "red_cape_monks": {
+        "sheet": "units_regular",
+        "col": 0,
+        "row": 2
+      },
+      "northern_monks": {
+        "sheet": "units_regular",
+        "col": 1,
+        "row": 2
+      },
+      "savage_monks": {
+        "sheet": "units_regular",
+        "col": 2,
+        "row": 2
+      }
+    }
+  },
+  "icons": {
+    "crystals": {
+      "white": {
+        "col": 0,
+        "row": 0
+      },
+      "green": {
+        "col": 1,
+        "row": 0
+      },
+      "red": {
+        "col": 2,
+        "row": 0
+      },
+      "blue": {
+        "col": 3,
+        "row": 0
+      }
+    }
+  }
+}

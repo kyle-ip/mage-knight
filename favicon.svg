@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Mage Knight">
+  <defs>
+    <linearGradient id="mk-face" x1="18" y1="8" x2="48" y2="58" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#3a2e22"/>
+      <stop offset="1" stop-color="#1a1410"/>
+    </linearGradient>
+    <linearGradient id="mk-brass" x1="16" y1="12" x2="50" y2="52" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#f0d48a"/>
+      <stop offset="0.45" stop-color="#c9a24a"/>
+      <stop offset="1" stop-color="#8a6a28"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="12" fill="#14100c"/>
+  <path
+    fill="url(#mk-face)"
+    stroke="url(#mk-brass)"
+    stroke-width="2.5"
+    d="M32 6 L54 19 V45 L32 58 L10 45 V19 Z"
+  />
+  <path
+    fill="none"
+    stroke="url(#mk-brass)"
+    stroke-width="2.2"
+    stroke-linecap="round"
+    d="M32 18 V42 M26 24 H38 M28 42 H36"
+  />
+</svg>
