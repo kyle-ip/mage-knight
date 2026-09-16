@@ -1,0 +1,17 @@
+{
+  "name": "mk-wasm",
+  "type": "module",
+  "description": "Browser WASM session API for local play (Pages + desktop)",
+  "version": "0.1.0",
+  "license": "MIT",
+  "files": [
+    "mk_wasm_bg.wasm",
+    "mk_wasm.js",
+    "mk_wasm.d.ts"
+  ],
+  "main": "mk_wasm.js",
+  "types": "mk_wasm.d.ts",
+  "sideEffects": [
+    "./snippets/*"
+  ]
+}
