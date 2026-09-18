@@ -1,0 +1,329 @@
+{
+  "synonyms": {
+    "block": [
+      "block",
+      "格挡",
+      "defence",
+      "defense",
+      "Block"
+    ],
+    "wound": [
+      "wound",
+      "伤口",
+      "wounds",
+      "Wound"
+    ],
+    "poison": [
+      "poison",
+      "毒",
+      "毒伤",
+      "poisonous"
+    ],
+    "paralyze": [
+      "paralyze",
+      "paralysis",
+      "麻痹",
+      "瘫痪"
+    ],
+    "fame": [
+      "fame",
+      "声望",
+      "名声",
+      "Fame"
+    ],
+    "reputation": [
+      "reputation",
+      "reputation track",
+      "声望轨道",
+      "民望"
+    ],
+    "move": [
+      "move",
+      "Move",
+      "移动",
+      "move points"
+    ],
+    "influence": [
+      "influence",
+      "Influence",
+      "影响力",
+      "互动"
+    ],
+    "crystal": [
+      "crystal",
+      "crystals",
+      "水晶",
+      "mana crystal"
+    ],
+    "source": [
+      "source",
+      "Source",
+      "魔力源",
+      "源骰"
+    ],
+    "tactic": [
+      "tactic",
+      "tactics",
+      "战术",
+      "战术卡"
+    ],
+    "unit": [
+      "unit",
+      "units",
+      "单位",
+      "佣兵"
+    ],
+    "deed": [
+      "deed",
+      "deed deck",
+      "契约牌",
+      "牌库",
+      "hand limit",
+      "手牌上限",
+      "hand size"
+    ],
+    "armor": [
+      "armor",
+      "护甲",
+      "Armour"
+    ],
+    "fortified": [
+      "fortified",
+      "fortification",
+      "要塞",
+      "设防"
+    ],
+    "siege": [
+      "siege",
+      "Siege",
+      "攻城",
+      "攻城攻击"
+    ],
+    "ranged": [
+      "ranged",
+      "Ranged",
+      "远程",
+      "远程攻击"
+    ],
+    "assault": [
+      "assault",
+      "突袭",
+      "攻城突袭"
+    ],
+    "keep": [
+      "keep",
+      "城堡",
+      "要塞城堡",
+      "mage tower",
+      "法师塔",
+      "magic tower"
+    ],
+    "monastery": [
+      "monastery",
+      "修道院"
+    ],
+    "village": [
+      "village",
+      "村庄"
+    ],
+    "city": [
+      "city",
+      "城市",
+      "都城"
+    ],
+    "explore": [
+      "explore",
+      "exploration",
+      "探索",
+      "揭地块"
+    ],
+    "provoke": [
+      "provoke",
+      "激怒",
+      "挑衅"
+    ],
+    "rampaging": [
+      "rampaging",
+      "orc",
+      "横行敌人",
+      "兽人",
+      "end of the round",
+      "End of the Round",
+      "回合结束",
+      "宣布结束",
+      "level up",
+      "升级",
+      "Level up"
+    ],
+    "artifact": [
+      "artifact",
+      "Artifact",
+      "神器",
+      "遗物"
+    ],
+    "banner": [
+      "banner",
+      "Banner",
+      "旗帜",
+      "旗帜神器"
+    ],
+    "spell": [
+      "spell",
+      "Spell",
+      "法术",
+      "advanced action",
+      "Advanced Action",
+      "高级行动",
+      "进阶行动"
+    ],
+    "summon": [
+      "summon",
+      "Summon",
+      "召唤"
+    ],
+    "brutal": [
+      "brutal",
+      "Brutal",
+      "残暴"
+    ],
+    "swift": [
+      "swift",
+      "Swift",
+      "迅捷"
+    ],
+    "resistance": [
+      "resistance",
+      "resist",
+      "抗性",
+      "抵抗",
+      "cold fire",
+      "Cold Fire",
+      "寒火",
+      "冰火"
+    ],
+    "pvp": [
+      "pvp",
+      "player vs player",
+      "对战",
+      "玩家对战"
+    ],
+    "dummy": [
+      "dummy",
+      "Dummy player",
+      "傀儡",
+      "假人",
+      "first reconnaissance",
+      "First Recon",
+      "初次侦察",
+      "第一次侦察",
+      "虚拟玩家",
+      "solo opponent"
+    ],
+    "conquest": [
+      "conquest",
+      "Conquest",
+      "征服"
+    ],
+    "blitz": [
+      "blitz",
+      "Blitz Conquest",
+      "闪电征服",
+      "greatest loot",
+      "最大战利品",
+      "Greatest Loot",
+      "command token",
+      "指挥标记",
+      "Command",
+      "safe space",
+      "安全格子",
+      "安全空间",
+      "forced withdrawal",
+      "强制撤退",
+      "Forced Withdrawal"
+    ],
+    "day": [
+      "day",
+      "Day",
+      "白天",
+      "日"
+    ],
+    "night": [
+      "night",
+      "Night",
+      "黑夜",
+      "夜",
+      "gold mana",
+      "金魔力",
+      "金色魔力",
+      "black mana",
+      "黑魔力",
+      "黑色魔力"
+    ],
+    "heal": [
+      "heal",
+      "healing",
+      "奶",
+      "奶部队",
+      "回复",
+      "治疗部队"
+    ],
+    "dungeon": [
+      "dungeon",
+      "地下城",
+      "奖励",
+      "dungeon reward",
+      "地下城奖励"
+    ],
+    "units": [
+      "units",
+      "unit",
+      "部队",
+      "回手牌",
+      "回不了手牌",
+      "用完部队"
+    ],
+    "reroll": [
+      "reroll",
+      "re-roll",
+      "重roll",
+      "重掷",
+      "骰子不变色"
+    ],
+    "shortcut": [
+      "shortcut",
+      "shortcuts",
+      "hotkey",
+      "hotkeys",
+      "快捷键",
+      "键盘",
+      "按键"
+    ],
+    "chip": [
+      "chip",
+      "chips",
+      "按钮条",
+      "芯片"
+    ],
+    "afford": [
+      "afford",
+      "can't buy",
+      "cannot buy",
+      "买不起",
+      "不够",
+      "影响力不够"
+    ],
+    "fortress": [
+      "fortress",
+      "fortified",
+      "要塞",
+      "城堡",
+      "城防"
+    ],
+    "pause": [
+      "pause",
+      "menu",
+      "暂停",
+      "菜单"
+    ]
+  }
+}

@@ -1,0 +1,237 @@
+{
+  "source": "klin",
+  "tier": "T1",
+  "chapters": [
+    {
+      "id": "klin-01",
+      "chapter": 1,
+      "title": "游戏设置",
+      "file": "klin-01.json",
+      "paragraphs": 15
+    },
+    {
+      "id": "klin-02",
+      "chapter": 2,
+      "title": "虚拟玩家",
+      "file": "klin-02.json",
+      "paragraphs": 9
+    },
+    {
+      "id": "klin-03",
+      "chapter": 3,
+      "title": "回合开始",
+      "file": "klin-03.json",
+      "paragraphs": 15
+    },
+    {
+      "id": "klin-04",
+      "chapter": 4,
+      "title": "魔力",
+      "file": "klin-04.json",
+      "paragraphs": 45
+    },
+    {
+      "id": "klin-05",
+      "chapter": 5,
+      "title": "移动",
+      "file": "klin-05.json",
+      "paragraphs": 50
+    },
+    {
+      "id": "klin-06",
+      "chapter": 6,
+      "title": "地图揭示",
+      "file": "klin-06.json",
+      "paragraphs": 19
+    },
+    {
+      "id": "klin-07",
+      "chapter": 7,
+      "title": "战斗",
+      "file": "klin-07.json",
+      "paragraphs": 200
+    },
+    {
+      "id": "klin-08",
+      "chapter": 8,
+      "title": "PVP 战斗",
+      "file": "klin-08.json",
+      "paragraphs": 64
+    },
+    {
+      "id": "klin-09",
+      "chapter": 9,
+      "title": "奥术免疫",
+      "file": "klin-09.json",
+      "paragraphs": 17
+    },
+    {
+      "id": "klin-10",
+      "chapter": 10,
+      "title": "城市",
+      "file": "klin-10.json",
+      "paragraphs": 79
+    },
+    {
+      "id": "klin-11",
+      "chapter": 11,
+      "title": "影响力",
+      "file": "klin-11.json",
+      "paragraphs": 32
+    },
+    {
+      "id": "klin-12",
+      "chapter": 12,
+      "title": "治疗",
+      "file": "klin-12.json",
+      "paragraphs": 10
+    },
+    {
+      "id": "klin-13",
+      "chapter": 13,
+      "title": "休息",
+      "file": "klin-13.json",
+      "paragraphs": 16
+    },
+    {
+      "id": "klin-14",
+      "chapter": 14,
+      "title": "回合基本要求",
+      "file": "klin-14.json",
+      "paragraphs": 15
+    },
+    {
+      "id": "klin-15",
+      "chapter": 15,
+      "title": "回合结束",
+      "file": "klin-15.json",
+      "paragraphs": 23
+    },
+    {
+      "id": "klin-16",
+      "chapter": 16,
+      "title": "强制撤离",
+      "file": "klin-16.json",
+      "paragraphs": 10
+    },
+    {
+      "id": "klin-17",
+      "chapter": 17,
+      "title": "轮次结束",
+      "file": "klin-17.json",
+      "paragraphs": 13
+    },
+    {
+      "id": "klin-18",
+      "chapter": 18,
+      "title": "终局计分",
+      "file": "klin-18.json",
+      "paragraphs": 11
+    },
+    {
+      "id": "klin-19",
+      "chapter": 19,
+      "title": "杂项",
+      "file": "klin-19.json",
+      "paragraphs": 61
+    },
+    {
+      "id": "klin-20",
+      "chapter": 20,
+      "title": "变体规则",
+      "file": "klin-20.json",
+      "paragraphs": 24
+    },
+    {
+      "id": "klin-21",
+      "chapter": 21,
+      "title": "剧本",
+      "file": "klin-21.json",
+      "paragraphs": 87
+    },
+    {
+      "id": "klin-22",
+      "chapter": 22,
+      "title": "沃卡里 Volkare",
+      "file": "klin-22.json",
+      "paragraphs": 89
+    },
+    {
+      "id": "klin-23",
+      "chapter": 23,
+      "title": "基本行动卡",
+      "file": "klin-23.json",
+      "paragraphs": 193
+    },
+    {
+      "id": "klin-24",
+      "chapter": 24,
+      "title": "高级行动卡",
+      "file": "klin-24.json",
+      "paragraphs": 411
+    },
+    {
+      "id": "klin-25",
+      "chapter": 25,
+      "title": "双色行动卡",
+      "file": "klin-25.json",
+      "paragraphs": 89
+    },
+    {
+      "id": "klin-26",
+      "chapter": 26,
+      "title": "法术卡",
+      "file": "klin-26.json",
+      "paragraphs": 432
+    },
+    {
+      "id": "klin-27",
+      "chapter": 27,
+      "title": "神器卡",
+      "file": "klin-27.json",
+      "paragraphs": 242
+    },
+    {
+      "id": "klin-28",
+      "chapter": 28,
+      "title": "技能标记",
+      "file": "klin-28.json",
+      "paragraphs": 540
+    },
+    {
+      "id": "klin-29",
+      "chapter": 29,
+      "title": "宗派标记",
+      "file": "klin-29.json",
+      "paragraphs": 75
+    },
+    {
+      "id": "klin-30",
+      "chapter": 30,
+      "title": "银色部队",
+      "file": "klin-30.json",
+      "paragraphs": 127
+    },
+    {
+      "id": "klin-31",
+      "chapter": 31,
+      "title": "金色部队",
+      "file": "klin-31.json",
+      "paragraphs": 72
+    },
+    {
+      "id": "klin-32",
+      "chapter": 32,
+      "title": "战术卡",
+      "file": "klin-32.json",
+      "paragraphs": 67
+    },
+    {
+      "id": "klin-33",
+      "chapter": 33,
+      "title": "敌人标记",
+      "file": "klin-33.json",
+      "paragraphs": 62
+    }
+  ]
+}
